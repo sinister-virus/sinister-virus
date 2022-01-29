@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratham416
 - 👀 I’m interested in Andriod Stuff
-- 🌱 I’m currently learning Basics of Andriod Developemnt
+- 🌱 I’m currently learning Basics of Andriod Developemnt, Advanced Python programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
