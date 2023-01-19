@@ -5,7 +5,7 @@
 - 📫 How to reach me
    [Telegram](https://t.me/sinister_virus) |
    [Email](mailto:sinister-virus@outlook.com) |
-   [Twitter](https://www.twitter.com/Pratham_416) |
+   [Twitter](https://www.twitter.com/sinister_virus) |
    [Instagram](https://www.instagram.com/sinister_virus) |
 
 [![#Pratham!'s GitHub stats](https://github-readme-stats.vercel.app/api?username=sinister-virus&show_icons=true&theme=chartreuse-dark)](https://github.com/sinister-virus/github-readme-stats)
