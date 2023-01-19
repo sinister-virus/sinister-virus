@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects in Python or Testing Stuff
 - 📫 How to reach me
    [Telegram](https://t.me/sinister_virus) |
-   [Email](sinister-virus@outlook.com) |
+   [Email](mailto:sinister-virus@outlook.com) |
    [Twitter](https://www.twitter.com/Pratham_416) |
    [Instagram](https://www.instagram.com/sinister_virus) |
 
